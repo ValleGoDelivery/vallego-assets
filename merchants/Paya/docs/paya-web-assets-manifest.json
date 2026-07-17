@@ -1,0 +1,242 @@
+[
+  {
+    "path": "merchants/Paya/atmosphere/paya-garden-evening-01.jpg",
+    "original_path": "merchants/Paya/atmosphere/paya-garden-evening-01.jpeg",
+    "original_dimensions": "3120x4160",
+    "web_dimensions": "1800x2400",
+    "original_size_mb": 2.3,
+    "web_size_mb": 1.2
+  },
+  {
+    "path": "merchants/Paya/branding/paya-logo.jpg",
+    "original_path": "merchants/Paya/branding/paya-logo.jpg",
+    "original_dimensions": "1280x1280",
+    "web_dimensions": "1280x1280",
+    "original_size_mb": 0.04,
+    "web_size_mb": 0.04
+  },
+  {
+    "path": "merchants/Paya/drinks/paya-milkshake-01.jpg",
+    "original_path": "merchants/Paya/drinks/paya-milkshake-01.jpg",
+    "original_dimensions": "2405x3600",
+    "web_dimensions": "1600x2395",
+    "original_size_mb": 1.7,
+    "web_size_mb": 0.69
+  },
+  {
+    "path": "merchants/Paya/drinks/paya-milkshake-02.jpg",
+    "original_path": "merchants/Paya/drinks/paya-milkshake-02.jpg",
+    "original_dimensions": "2405x3600",
+    "web_dimensions": "1600x2395",
+    "original_size_mb": 1.82,
+    "web_size_mb": 0.68
+  },
+  {
+    "path": "merchants/Paya/exterior/paya-exterior-sign-roadside-01.jpg",
+    "original_path": "merchants/Paya/exterior/paya-exterior-sign-roadside-01.jpeg",
+    "original_dimensions": "3120x4160",
+    "web_dimensions": "1800x2400",
+    "original_size_mb": 3.11,
+    "web_size_mb": 1.32
+  },
+  {
+    "path": "merchants/Paya/food/paya-burger-beer-fries-01.jpg",
+    "original_path": "merchants/Paya/food/paya-burger-beer-fries-01.jpg",
+    "original_dimensions": "2405x3600",
+    "web_dimensions": "1800x2694",
+    "original_size_mb": 1.04,
+    "web_size_mb": 0.5
+  },
+  {
+    "path": "merchants/Paya/food/paya-burger-beer-fries-02.jpg",
+    "original_path": "merchants/Paya/food/paya-burger-beer-fries-02.jpg",
+    "original_dimensions": "2141x3600",
+    "web_dimensions": "1800x3026",
+    "original_size_mb": 1.33,
+    "web_size_mb": 0.83
+  },
+  {
+    "path": "merchants/Paya/food/paya-burger-closeup-01.jpg",
+    "original_path": "merchants/Paya/food/paya-burger-closeup-01.jpg",
+    "original_dimensions": "2404x3600",
+    "web_dimensions": "1800x2695",
+    "original_size_mb": 1.07,
+    "web_size_mb": 0.53
+  },
+  {
+    "path": "merchants/Paya/food/paya-burger-closeup-02.jpg",
+    "original_path": "merchants/Paya/food/paya-burger-closeup-02.jpg",
+    "original_dimensions": "2286x3600",
+    "web_dimensions": "1800x2834",
+    "original_size_mb": 0.81,
+    "web_size_mb": 0.44
+  },
+  {
+    "path": "merchants/Paya/food/paya-burger-fries-01.jpg",
+    "original_path": "merchants/Paya/food/paya-burger-fries-01.jpg",
+    "original_dimensions": "2329x3600",
+    "web_dimensions": "1800x2782",
+    "original_size_mb": 0.97,
+    "web_size_mb": 0.51
+  },
+  {
+    "path": "merchants/Paya/food/paya-burger-fries-02.jpg",
+    "original_path": "merchants/Paya/food/paya-burger-fries-02.jpg",
+    "original_dimensions": "2405x3600",
+    "web_dimensions": "1800x2694",
+    "original_size_mb": 1.15,
+    "web_size_mb": 0.55
+  },
+  {
+    "path": "merchants/Paya/food/paya-burger-fries-03.jpg",
+    "original_path": "merchants/Paya/food/paya-burger-fries-03.jpg",
+    "original_dimensions": "3740x5610",
+    "web_dimensions": "1800x2700",
+    "original_size_mb": 15.27,
+    "web_size_mb": 0.5
+  },
+  {
+    "path": "merchants/Paya/food/paya-burger-milkshake-01.jpg",
+    "original_path": "merchants/Paya/food/paya-burger-milkshake-01.jpg",
+    "original_dimensions": "2405x3600",
+    "web_dimensions": "1800x2694",
+    "original_size_mb": 1.44,
+    "web_size_mb": 0.7
+  },
+  {
+    "path": "merchants/Paya/food/paya-burger-milkshake-fries-01.jpg",
+    "original_path": "merchants/Paya/food/paya-burger-milkshake-fries-01.jpg",
+    "original_dimensions": "2217x3600",
+    "web_dimensions": "1800x2922",
+    "original_size_mb": 1.36,
+    "web_size_mb": 0.78
+  },
+  {
+    "path": "merchants/Paya/food/paya-burger-milkshake-fries-02.jpg",
+    "original_path": "merchants/Paya/food/paya-burger-milkshake-fries-02.jpg",
+    "original_dimensions": "2405x3600",
+    "web_dimensions": "1800x2694",
+    "original_size_mb": 1.22,
+    "web_size_mb": 0.58
+  },
+  {
+    "path": "merchants/Paya/food/paya-burger-milkshake-overhead-01.jpg",
+    "original_path": "merchants/Paya/food/paya-burger-milkshake-overhead-01.jpg",
+    "original_dimensions": "2405x3600",
+    "web_dimensions": "1800x2694",
+    "original_size_mb": 1.9,
+    "web_size_mb": 0.92
+  },
+  {
+    "path": "merchants/Paya/food/paya-burger-tropical-drink-01.jpg",
+    "original_path": "merchants/Paya/food/paya-burger-tropical-drink-01.jpg",
+    "original_dimensions": "1589x2383",
+    "web_dimensions": "1589x2383",
+    "original_size_mb": 1.32,
+    "web_size_mb": 0.37
+  },
+  {
+    "path": "merchants/Paya/food/paya-burger-wine-01.jpg",
+    "original_path": "merchants/Paya/food/paya-burger-wine-01.jpg",
+    "original_dimensions": "3828x5742",
+    "web_dimensions": "1800x2700",
+    "original_size_mb": 16.37,
+    "web_size_mb": 0.7
+  },
+  {
+    "path": "merchants/Paya/food/paya-cheese-melt-burger-01.jpg",
+    "original_path": "merchants/Paya/food/paya-cheese-melt-burger-01.jpg",
+    "original_dimensions": "2405x3600",
+    "web_dimensions": "1800x2694",
+    "original_size_mb": 1.57,
+    "web_size_mb": 0.7
+  },
+  {
+    "path": "merchants/Paya/food/paya-dessert-slice-01.jpg",
+    "original_path": "merchants/Paya/food/paya-dessert-slice-01.jpg",
+    "original_dimensions": "3787x5681",
+    "web_dimensions": "1800x2700",
+    "original_size_mb": 19.13,
+    "web_size_mb": 0.66
+  },
+  {
+    "path": "merchants/Paya/food/paya-grilled-steak-01.jpg",
+    "original_path": "merchants/Paya/food/paya-grilled-steak-01.jpg",
+    "original_dimensions": "3613x5419",
+    "web_dimensions": "1800x2699",
+    "original_size_mb": 18.6,
+    "web_size_mb": 1.09
+  },
+  {
+    "path": "merchants/Paya/food/paya-handheld-burger-01.jpg",
+    "original_path": "merchants/Paya/food/paya-handheld-burger-01.jpg",
+    "original_dimensions": "3848x5773",
+    "web_dimensions": "1800x2700",
+    "original_size_mb": 13.52,
+    "web_size_mb": 0.32
+  },
+  {
+    "path": "merchants/Paya/food/paya-signature-burger-01.jpg",
+    "original_path": "merchants/Paya/food/paya-signature-burger-01.jpg",
+    "original_dimensions": "3899x5933",
+    "web_dimensions": "1800x2739",
+    "original_size_mb": 12.63,
+    "web_size_mb": 0.31
+  },
+  {
+    "path": "merchants/Paya/food/paya-sushi-roll-01.jpg",
+    "original_path": "merchants/Paya/food/paya-sushi-roll-01.jpg",
+    "original_dimensions": "3705x5558",
+    "web_dimensions": "1800x2700",
+    "original_size_mb": 22.49,
+    "web_size_mb": 0.98
+  },
+  {
+    "path": "merchants/Paya/food/paya-sushi-roll-02.jpg",
+    "original_path": "merchants/Paya/food/paya-sushi-roll-02.jpg",
+    "original_dimensions": "3906x5860",
+    "web_dimensions": "1800x2700",
+    "original_size_mb": 25.66,
+    "web_size_mb": 0.91
+  },
+  {
+    "path": "merchants/Paya/food/paya-wings-beer-01.jpg",
+    "original_path": "merchants/Paya/food/paya-wings-beer-01.jpg",
+    "original_dimensions": "3772x5658",
+    "web_dimensions": "1800x2700",
+    "original_size_mb": 13.56,
+    "web_size_mb": 0.48
+  },
+  {
+    "path": "merchants/Paya/food/paya-wings-sauce-01.jpg",
+    "original_path": "merchants/Paya/food/paya-wings-sauce-01.jpg",
+    "original_dimensions": "3299x4949",
+    "web_dimensions": "1800x2700",
+    "original_size_mb": 13.46,
+    "web_size_mb": 0.65
+  },
+  {
+    "path": "merchants/Paya/hero/paya-hero-patio-evening-01.jpg",
+    "original_path": "merchants/Paya/hero/paya-hero-patio-evening-01.jpeg",
+    "original_dimensions": "3120x4160",
+    "web_dimensions": "2400x3200",
+    "original_size_mb": 2.19,
+    "web_size_mb": 1.73
+  },
+  {
+    "path": "merchants/Paya/hero/paya-hero-table-spread-01.jpg",
+    "original_path": "merchants/Paya/hero/paya-hero-table-spread-01.jpg",
+    "original_dimensions": "5566x3711",
+    "web_dimensions": "2400x1600",
+    "original_size_mb": 20.23,
+    "web_size_mb": 0.84
+  },
+  {
+    "path": "merchants/Paya/interior/paya-open-air-dining-01.jpg",
+    "original_path": "merchants/Paya/interior/paya-open-air-dining-01.jpeg",
+    "original_dimensions": "3024x4032",
+    "web_dimensions": "1800x2400",
+    "original_size_mb": 2.75,
+    "web_size_mb": 1.24
+  }
+]
